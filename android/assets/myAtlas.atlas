@@ -1,0 +1,27 @@
+
+myAtlas.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball
+  rotate: false
+  xy: 2, 54
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+game_bar
+  rotate: false
+  xy: 2, 2
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+square
+  rotate: false
+  xy: 131, 117
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
